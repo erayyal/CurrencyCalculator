@@ -1,0 +1,15 @@
+/Users/eray/RiderProjects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net5.0/CurrencyCalculator.deps.json
+/Users/eray/RiderProjects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net5.0/CurrencyCalculator.runtimeconfig.json
+/Users/eray/RiderProjects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net5.0/CurrencyCalculator.runtimeconfig.dev.json
+/Users/eray/RiderProjects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net5.0/CurrencyCalculator.dll
+/Users/eray/RiderProjects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net5.0/ref/CurrencyCalculator.dll
+/Users/eray/RiderProjects/CurrencyCalculator/CurrencyCalculator/bin/Debug/net5.0/CurrencyCalculator.pdb
+/Users/eray/RiderProjects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net5.0/CurrencyCalculator.csprojAssemblyReference.cache
+/Users/eray/RiderProjects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net5.0/CurrencyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eray/RiderProjects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net5.0/CurrencyCalculator.AssemblyInfoInputs.cache
+/Users/eray/RiderProjects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net5.0/CurrencyCalculator.AssemblyInfo.cs
+/Users/eray/RiderProjects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net5.0/CurrencyCalculator.csproj.CoreCompileInputs.cache
+/Users/eray/RiderProjects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net5.0/CurrencyCalculator.dll
+/Users/eray/RiderProjects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net5.0/ref/CurrencyCalculator.dll
+/Users/eray/RiderProjects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net5.0/CurrencyCalculator.pdb
+/Users/eray/RiderProjects/CurrencyCalculator/CurrencyCalculator/obj/Debug/net5.0/CurrencyCalculator.genruntimeconfig.cache
